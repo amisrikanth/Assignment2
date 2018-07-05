@@ -1,0 +1,100 @@
+.fa-gem {
+    font-size: 22px;
+
+}
+
+fa-search {
+    font-size: 20px;
+}
+
+.card {
+    border: none;
+}
+
+.product-button {
+    width: 50%;
+    margin: auto;
+}
+
+.footer-section {
+    margin-top: 15px;
+    color: white;
+    text-align: center;
+}
+
+.fa-facebook,
+.fa-twitter,
+.fa-instagram,
+.fa-google-plus-g {
+    margin-top: 42px;
+    font-size: 30px;
+}
+
+.fa-facebook {
+    background: white;
+    color: dodgerblue;
+}
+
+.fa-twitter {
+    background: dodgerblue;
+    color: white;
+}
+
+.fa-google-plus-g {
+    background: #dd4b39;
+    color: white;
+}
+
+.fa-instagram {
+    background: #bf2424;
+    color: white;
+}
+
+.fab {
+    margin-right: 15px;
+}
+
+#contact {
+    background-color: rgb(15, 15, 15);
+    clear: both;
+}
+
+#contact ul li {
+    margin: 0;
+    list-style: none;
+    color: white;
+    font-size: 18px;
+}
+.jumbotron{
+    margin-top: 10px;
+    background-color: black;
+}
+.jumbotron p{
+    color: white;
+    font-family: 'EB Garamond', serif;
+}
+.jumbotron img{
+    height: 100%;
+    width:20%;
+}
+.about{
+    margin-top: 15px;
+    background-color: #b9aca7
+}
+#about p{
+    text-align: justify;
+}
+@media (max-width:768px){
+  #contact .row .footer-section {
+        border:5px solid white;
+        margin: 0;
+        
+    }
+    .fab {
+        margin-right: 13px;
+        margin-top: 5px;
+    }
+}
+@media (min-width:768px){
+   
+  }
